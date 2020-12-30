@@ -52,7 +52,7 @@ function posicaoRandomica() {
         if (vidas > 3) {
             window.location.href = 'fim_de_jogo.html'
         } else {
-            document.getElementById('v' + vidas).src = "/imagens/coracao_vazio.png" // pegar o elemento do coração e mudar a src, trocando para coração vazio // a variável vidas recebeu 1 e no getElementById nós concatenamos a string 'v' com vidas, fazendo com que ela fique dinâmica e seja lida como v1, ao passar pelo loop, v2 e assim por diante. 
+            document.getElementById('v' + vidas).src = "imagens/coracao_vazio.png" // pegar o elemento do coração e mudar a src, trocando para coração vazio // a variável vidas recebeu 1 e no getElementById nós concatenamos a string 'v' com vidas, fazendo com que ela fique dinâmica e seja lida como v1, ao passar pelo loop, v2 e assim por diante. 
             vidas++
 
         }
