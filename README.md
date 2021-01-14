@@ -1,5 +1,5 @@
 # Jogo Mata Mosquito
-Jogo Mata Mosquito feito com o auxílio do instrutor Jorge Sant Ana do curso Desenvolvimento Web 2020 na plataforma Udemy.
+Jogo Mata Mosquito feito com o auxílio do instrutor Jorge Sant Ana do curso ![Desenvolvimento Web 2020](https://www.udemy.com/course/web-completo/learn/) na plataforma Udemy.
 
 ![Página Inicial](https://pbs.twimg.com/media/EqrZITjW4AEBs-s?format=jpg&name=medium)
 
